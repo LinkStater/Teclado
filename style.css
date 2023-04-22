@@ -1,0 +1,37 @@
+.teste
+{
+color: #7DA479;
+font-size: 30px;
+}
+
+.div
+{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.alinhar_horizontal
+{
+display: flex;
+justify-content: center;
+}
+
+.alinhar_vertical
+{
+display: flex;
+align-items: center;
+}
+
+button
+{
+height: 300px;
+width: 120px;
+}
+
+html, body
+{
+height: 100%;
+width: 100%;
+}
+
