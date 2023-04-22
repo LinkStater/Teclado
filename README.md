@@ -1,3 +1,3 @@
 # Teclado
 
-https://github.com/LinkStater/Teclado/index.html
+https://github.com/LinkStater/Teclado/Index.html
